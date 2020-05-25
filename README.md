@@ -191,7 +191,7 @@ The piscine is the entrance exam that consists of **4 weeks fully dedicated to c
 > **시작이 반이다** ― *The beginning is half of the way (Korean proverb)* 
 
 ### First by installing a C compiler on your computer
-* On Windows it is a bit tricky, you will have to install [Mingw](http://www.mingw.org/)
+* On Windows it is a bit tricky, you will have to install [Mingw](http://www.mingw.org/) or [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 * On Linux it is pretty straightforward since it is only installed and if not ```apt-get``` will make it easy.
 * On MAC it is not much more difficult, google how to do it.
 
